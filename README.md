@@ -29,7 +29,7 @@ Projeto final de Docker
 
 1. Acesse o diretório do projeto que foi clonado:
    ```bash
-   cd finalDocker 
+   cd entregaDocker 
    ```
 2. Após acessar o diretório, inicie os containers e aguarde o fim do processo:
    ```bash
