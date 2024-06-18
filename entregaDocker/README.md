@@ -19,14 +19,14 @@
 
 1. Clone o projeto dentro do diretório criado anteriormente:
    ```bash
-   git clone https://github.com/MedeirosMatheus/finalDocker.git
+   git clone https://github.com/MedeirosMatheus/entregaDocker.git
    ```
 
 ## Passo 3: Iniciar o projeto
 
 1. Acesse o diretório do projeto que foi clonado:
    ```bash
-   cd finalDocker 
+   cd entregaDocker 
    ```
 2. Após acessar o diretório, inicie os containers e aguarde o fim do processo:
    ```bash
