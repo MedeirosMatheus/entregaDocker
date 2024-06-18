@@ -22,7 +22,7 @@ Projeto final de Docker
 
 1. Clone o projeto dentro do diretório criado anteriormente:
    ```bash
-   git clone https://github.com/MedeirosMatheus/finalDocker.git
+   git clone https://github.com/MedeirosMatheus/entregaDocker.git
    ```
 
 ## Passo 3: Iniciar o projeto
